@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDEA
+*.iml
+.idea/
+
+# MAVEN
+target/
+
+#DB
+2013-08-23.web-studentlist-db/db/
